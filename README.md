@@ -1,7 +1,7 @@
 # Zeyad Eldesouki
 ### Software Engineer | Flutter Developer
 
-Passionate software engineer with expertise in Mobile development.
+Passionate software engineer with expertise in mobile development.
 
 🛠️ **Tech Stack**
 - Intermediate: `Flutter` `Dart` `Git` `MVVM`
@@ -11,7 +11,7 @@ Passionate software engineer with expertise in Mobile development.
 
 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyadeldesouki&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyadeldesouki&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 🤝 **Connect With Me**
