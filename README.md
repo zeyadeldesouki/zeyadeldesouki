@@ -1,16 +1,20 @@
-## Hi there 👋
+# Zeyad Eldesouki
+### Software Engineer | Flutter Developer
 
-<!--
-**zeyadeldesouki/zeyadeldesouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate software engineer with expertise in Mobile development.
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack**
+- Intermediate: `Flutter` `Dart` `Git` `MVVM`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Featured Projects**
+- [Furniture App](https://github.com/zeyadeldesouki/Furniture_App) - A mobile application providing a platform for users to explore and interact with furniture products.
+
+📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyadeldesouki&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+🤝 **Connect With Me**
+- [GitHub](https://github.com/zeyadeldesouki)
+- [LinkedIn](https://www.linkedin.com/in/zeyadeldesouki/)
+- [Email](mailto:zeyadeldesouki@gmail.com)
