@@ -7,11 +7,10 @@
 <details>
 <summary>Open profile</summary>
 
-[comment]: <> (View Counter)
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Zeyad Eldesouki;Welcome+to+my+profile!;Description+of+myself%3A;Mobile+App+Developer+With+Flutter;Building+amazing+cross+platform+apps;" alt="Typing SVG" /></a>
@@ -20,25 +19,12 @@
 
 <details>
 <summary>About me</summary>
-
-
-<div align="left">
-
-```js
-/**
- * Represents me:
- * @constructor
- * @param {string} city - Damietta, Egypt.
- * @param {string} languagues - Arabic, English.
- * @param {string} jobTitle - Flutter Developer.
- * @param {string} specialization - Building cross platform applications.
- * @param {string} education - Bachelor of Computer Science, Damietta University.
- * @param {Date} birthday - 3th of March 2002.
- */
-```
-
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=A89568&center=true&vCenter=true&width=500&lines=City;Damietta%2C+Egypt;Languages;Arabic%2C+English;Job+Title;Flutter+Developer;Specialization;Building+cross platform+applications;Education;Bachelor+of+Computer+Science%2C;Damietta+University;Birthday%3A+3rd+of+March+2002" alt="Typing SVG" />
+  </a>
 </div>
-
 </details>
 
 <details>
@@ -107,7 +93,6 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
 ## Let's Work Together!
 
