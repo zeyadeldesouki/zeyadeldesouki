@@ -21,7 +21,7 @@
 <summary>About me</summary>
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=A89568&center=true&vCenter=true&width=500&lines=City;Damietta%2C+Egypt;Languages;Arabic%2C+English;Job+Title;Flutter+Developer;Specialization;Building+cross platform+applications;Education;Bachelor+of+Computer+Science%2C;Damietta+University;Birthday%3A+3rd+of+March+2002" alt="Typing SVG" />
   </a>
 </div>
