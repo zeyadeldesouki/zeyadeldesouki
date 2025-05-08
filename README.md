@@ -12,7 +12,7 @@
 <div align="center">
   <img height="200" alt="Profile" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Zeyad+Eldesouki;Welcome+to+my+profile!;Mobile+App+Developer+With+Flutter;Building+amazing+cross+platform+apps)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Zeyad+Eldesouki;Mobile+App+Developer+With+Flutter;Building+amazing+cross+platform+apps;Welcome+to+my+profile!;)](https://git.io/typing-svg)
 </div>
 
 <details>
